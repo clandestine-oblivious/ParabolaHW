@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1359126948 source:c:\users\ma. leslie\desktop\parabolahw\main.cpp
+	<iostream>
+	"Quadratic.h"
+
+1359126948 c:\users\ma. leslie\desktop\parabolahw\quadratic.h
+
+1359126948 source:c:\users\ma. leslie\desktop\parabolahw\quadratic.cpp
+	"Quadratic.h"
+	<iostream>
+	<cmath>
+
+1359126948 source:d:\g\files\coe\second sem\parabolahw\main.cpp
+	<iostream>
+	"Quadratic.h"
+
+1359126948 d:\g\files\coe\second sem\parabolahw\quadratic.h
+
+1359126948 source:d:\g\files\coe\second sem\parabolahw\quadratic.cpp
+	"Quadratic.h"
+	<iostream>
+	<cmath>
+
